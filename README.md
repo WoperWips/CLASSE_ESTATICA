@@ -14,6 +14,8 @@ celsiusParaFahrenheit(double celsius): Converte temperatura de Celsius para Fahr
 quilometrosParaMilhas(double quilometros): Converte distância de quilômetros para milhas.
 gramasParaLibras(double gramas): Converte peso de gramas para libras.
 
+![Capturar](https://github.com/user-attachments/assets/06b20365-5ca9-4836-a821-de704aabcc43)
+
 📋 Pré-requisitos Visual Studio + extensões do Java
 
 🔧 Instalação Cada programa pode ser executado individualmente. Basta compilar o código em seu ambiente Java e executar o arquivo correspondente.
